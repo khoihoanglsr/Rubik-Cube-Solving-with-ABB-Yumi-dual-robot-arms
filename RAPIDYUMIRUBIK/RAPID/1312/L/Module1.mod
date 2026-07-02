@@ -1,0 +1,252 @@
+MODULE Module1
+
+    VAR jointtarget handL_rotate;
+
+    PERS tasks task_list{2}:=[["T_ROB_L"],[ "T_ROB_R"]];
+
+    VAR syncident sync1;
+    VAR syncident sync2;
+    VAR syncident sync3;
+    VAR syncident sync4;
+    VAR syncident sync5;
+    VAR syncident sync6;
+    VAR syncident sync7;
+    VAR syncident sync8;
+    VAR syncident sync9;
+    VAR syncident sync10;
+    VAR syncident sync11;
+    VAR syncident sync12;
+    VAR syncident sync13;
+    VAR syncident sync14;
+    VAR syncident sync15;
+    VAR syncident sync16;
+    VAR syncident sync17;
+    VAR syncident sync18;
+    VAR syncident sync19;
+    VAR syncident sync20;
+    VAR syncident sync21;
+    VAR syncident sync22;
+    VAR syncident sync23;
+    VAR syncident sync24;
+    VAR syncident sync25;
+    VAR syncident sync26;
+    VAR syncident sync27;
+    VAR syncident sync28;
+    VAR syncident sync29;
+    VAR syncident sync30;
+    VAR syncident sync31;
+    VAR syncident sync32;
+    VAR syncident sync33;
+    VAR syncident sync34;
+    VAR syncident sync35;
+    VAR syncident sync36;
+    VAR syncident sync37;
+    VAR syncident sync38;
+    VAR syncident sync39;
+    VAR syncident sync40;
+    VAR syncident sync41;
+    VAR syncident sync42;
+    VAR syncident sync43;
+    VAR syncident sync44;
+    VAR syncident sync45;
+    VAR syncident sync46;
+    VAR syncident sync47;
+    VAR syncident sync48;
+    VAR syncident sync49;
+    VAR syncident sync50;
+    VAR syncident sync51;
+    VAR syncident sync52;
+    VAR syncident sync53;
+    VAR syncident sync54;
+    VAR syncident sync55;
+    VAR syncident sync56;
+    VAR syncident sync57;
+    VAR syncident sync58;
+    VAR syncident sync59;
+    VAR syncident sync60;
+    VAR syncident sync61;
+    VAR syncident sync62;
+    VAR syncident sync63;
+    VAR syncident sync64;
+    VAR syncident sync65;
+    VAR syncident sync66;
+    VAR syncident sync67;
+    VAR syncident sync68;
+    VAR syncident sync69;
+    VAR syncident sync70;
+    VAR syncident sync71;
+    VAR syncident sync72;
+    VAR syncident sync73;
+    VAR syncident sync74;
+    VAR syncident sync75;
+    VAR syncident sync76;
+    VAR syncident sync77;
+    VAR syncident sync78;
+    VAR syncident sync79;
+    VAR syncident sync80;
+    VAR syncident sync81;
+    VAR syncident sync82;
+    VAR syncident sync83;
+    VAR syncident sync84;
+    VAR syncident sync85;
+    VAR syncident sync86;
+    VAR syncident sync87;
+    VAR syncident sync88;
+    VAR syncident sync89;
+    VAR syncident sync90;
+    VAR syncident sync91;
+    VAR syncident sync92;
+    VAR syncident sync93;
+    VAR syncident sync94;
+    VAR syncident sync95;
+    VAR syncident sync96;
+    VAR syncident sync97;
+    VAR syncident sync98;
+    VAR syncident sync99;
+    VAR syncident sync100;
+    VAR syncident sync101;
+    VAR syncident sync102;
+    VAR syncident sync103;
+    VAR syncident sync104;
+    VAR syncident sync105;
+    VAR syncident sync106;
+    VAR syncident sync107;
+    VAR syncident sync108;
+    VAR syncident sync109;
+    VAR syncident sync110;
+    VAR syncident sync111;
+    VAR syncident sync112;
+    VAR syncident sync113;
+    VAR syncident sync114;
+    VAR syncident sync115;
+    VAR syncident sync116;
+    VAR syncident sync117;
+    VAR syncident sync118;
+    VAR syncident sync119;
+    VAR syncident sync120;
+    VAR syncident sync121;
+    VAR syncident sync122;
+    VAR syncident sync123;
+    VAR syncident sync124;
+    VAR syncident sync125;
+    VAR syncident sync126;
+    VAR syncident sync127;
+    VAR syncident sync128;
+    VAR syncident sync129;
+    VAR syncident sync130;
+    VAR syncident sync131;
+    VAR syncident sync132;
+    VAR syncident sync133;
+    VAR syncident sync134;
+    VAR syncident sync135;
+    VAR syncident sync136;
+    VAR syncident sync137;
+    VAR syncident sync138;
+    VAR syncident sync139;
+    VAR syncident sync140;
+    VAR syncident sync141;
+    VAR syncident sync142;
+    VAR syncident sync143;
+    VAR syncident sync144;
+    VAR syncident sync145;
+    VAR syncident sync146;
+    VAR syncident sync147;
+    VAR syncident sync148;
+    VAR syncident sync149;
+    VAR syncident sync150;
+    VAR syncident sync151;
+    VAR syncident sync152;
+    VAR syncident sync153;
+    VAR syncident sync154;
+    VAR syncident sync155;
+    VAR syncident sync156;
+    VAR syncident sync157;
+    VAR syncident sync158;
+    VAR syncident sync159;
+    VAR syncident sync160;
+    VAR syncident sync161;
+    VAR syncident sync162;
+    VAR syncident sync163;
+    VAR syncident sync164;
+    VAR syncident sync165;
+    VAR syncident sync166;
+    VAR syncident sync167;
+    VAR syncident sync168;
+    VAR syncident sync169;
+    VAR syncident sync170;
+    VAR syncident sync171;
+    VAR syncident sync172;
+    VAR syncident sync173;
+    VAR syncident sync174;
+    VAR syncident sync175;
+    VAR syncident sync176;
+    VAR syncident sync177;
+    VAR syncident sync178;
+    VAR syncident sync179;
+    VAR syncident sync180;
+    VAR syncident sync181;
+    VAR syncident sync182;
+    VAR syncident sync183;
+    VAR syncident sync184;
+    VAR syncident sync185;
+    VAR syncident sync186;
+    VAR syncident sync187;
+    VAR syncident sync188;
+    VAR syncident sync189;
+    VAR syncident sync190;
+    VAR syncident sync191;
+    VAR syncident sync192;
+    VAR syncident sync193;
+    VAR syncident sync194;
+    VAR syncident sync195;
+    VAR syncident sync196;
+    VAR syncident sync197;
+
+    VAR syncident syncBF_FB;
+    VAR syncident syncBF_R1;
+    VAR syncident syncBF_R2;
+    VAR syncident syncR_BF;
+    VAR syncident syncDU_UD;
+    VAR syncident syncUD_L1;
+    VAR syncident syncUD_L2;
+    VAR syncident syncL_DU;
+
+
+    VAR bool isConnected:=FALSE;
+    VAR bool initDone:=FALSE;
+    VAR bool caseth:=FALSE;
+    VAR bool ABC:=FALSE;
+    VAR bool SEND:=FALSE;
+    VAR string recvMsg:="";
+
+    PROC main()
+
+        isConnected:=TRUE;
+        recvMsg:="Reaady";
+        WHILE isConnected DO
+            IF NOT initDone THEN
+                IF recvMsg="CHECK" THEN
+                    p_home_L;
+                    WaitSyncTask\InPos,sync1,task_list;
+                    p_check_DUL_L;
+                    WaitTime 1;
+                    WaitSyncTask\InPos,sync6,task_list;
+                    ! Nhung lenh khoi tao chi chay 1 lan
+                    WaitTime 0.5;
+                    IF NOT caseth THEN
+                        !                        WaitTime\InPos,3;
+                        !                        WaitSyncTask\InPos,sync93,task_list;
+                        caseth:=TRUE;
+                    ENDIF
+                    initDone:=TRUE;
+                    ABC:=TRUE;
+                ENDIF
+            ENDIF
+            IF caseth THEN
+                SEND:=TRUE;
+                p_lib_rotate_L;
+                ! Lop nhan va xu ly lenh xoay tu Visual Studio
+            ENDIF
+        ENDWHILE
+    ENDPROC
+ENDMODULE
