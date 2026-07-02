@@ -1,0 +1,32 @@
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Runtime output
+current_case_id.txt
+rubik_state.txt
+solution.txt
+last_case_index.txt
+logs/
+
+# Build output
+build/
+dist/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Runtime output
+current_case_id.txt
+rubik_state.txt
+solution.txt
+last_case_index.txt
+logs/
+
+# Build output
+build/
+dist/
