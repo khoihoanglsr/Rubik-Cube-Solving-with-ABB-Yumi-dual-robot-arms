@@ -30,3 +30,27 @@ logs/
 # Build output
 build/
 dist/
+
+# Visual Studio / .NET build files
+.vs/
+**/.vs/
+bin/
+**/bin/
+obj/
+**/obj/
+*.user
+*.suo
+
+# Runtime files
+logs/
+**/logs/
+solution.txt
+rubik_state.txt
+current_case_id.txt
+last_case_index.txt
+csharp_debug.log
+
+# Python cache
+__pycache__/
+*.pyc
+RubikSolver/RubikSolver/Resource/Python/main.exe
